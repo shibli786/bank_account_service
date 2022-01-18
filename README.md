@@ -37,7 +37,7 @@ run rspec in the root directory
  
  transfer to saving account was doing opposite. what that mean is instead of deducting from checking and crediting to saving it was doing reverse
  
- there was on model validation
+ there was no model validation
  
  there was no transactional query
  
