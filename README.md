@@ -13,8 +13,11 @@ Mysql
  update database.yml
  
  rake db:create
+ 
  rake db:migrate
+ 
  rake db:seed
+ 
  
 ## Rspec Testing
 run rspec in the root directory
